@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = state.mn.us.dhs.\
+    config.SqlTestContainersSpringContextCustomizerFactory
